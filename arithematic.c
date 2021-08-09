@@ -1,5 +1,4 @@
 #include<stdio.h>
-
 int main()
 {
     int num,num2,result=0;
